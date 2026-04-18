@@ -1,12 +1,2 @@
 streamlit
 pandas
-pdfplumber
-PyMuPDF
-numpy
-scikit-learn
-openai
-langchain
-python-dotenv
-beautifulsoup4
-requests
-lxml
